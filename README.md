@@ -26,7 +26,7 @@ This application allows users to track their expenses by creating, reading, upda
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/ameerdev25/expense-tracker.git
 ```
 
 ### Step 2: Install Dependencies
@@ -40,25 +40,3 @@ npm install
 ```bash
 npm start:dev
 ```
-
-## API Endpoints
-
-### Get All Expense Records
-
-* `GET /expense`
-
-### Create a New Expense Record
-
-* `POST /expense`
-
-### Update an Existing Expense Record
-
-* `PUT /expense/:id`
-
-### Delete an Expense Record
-
-* `DELETE /expense/:id`
-
-### Calculate Total Amount of Expenses
-
-* `GET /expense/total`
