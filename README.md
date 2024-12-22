@@ -38,7 +38,7 @@ npm install
 ### Step 3: Start the Application
 
 ```bash
-npm start
+npm start:dev
 ```
 
 ## API Endpoints
